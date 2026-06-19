@@ -64,7 +64,7 @@ export const PRODUCTS_DATA: Product[] = [
     modelCode: 'GTQ6121BEV',
     category: 'tijorat',
     subCategory: 'avtobus',
-    image: '/src/assets/images/gt_bus_12m_1781508244809.jpg',
+    image: '/images/gt_bus_12m_1781508244809.jpg',
     badge: {
       zh: '主打产品',
       en: 'Flagship Model',
@@ -123,7 +123,7 @@ export const PRODUCTS_DATA: Product[] = [
     modelCode: 'GTQ6122BEV6',
     category: 'tijorat',
     subCategory: 'avtobus',
-    image: '/src/assets/images/double_decker_bus_1781585041945.jpg',
+    image: '/images/double_decker_bus_1781585041945.jpg',
     badge: {
       zh: '豪华双层',
       en: 'Double-Decker Flagship',
@@ -182,7 +182,7 @@ export const PRODUCTS_DATA: Product[] = [
     modelCode: 'GTQ6105BEV',
     category: 'tijorat',
     subCategory: 'avtobus',
-    image: '/src/assets/images/gt_bus_10m_1781508267691.jpg',
+    image: '/images/gt_bus_10m_1781508267691.jpg',
     badge: {
       zh: '主推产品',
       en: 'Best Seller',
@@ -241,7 +241,7 @@ export const PRODUCTS_DATA: Product[] = [
     modelCode: 'GTQ6951BEV',
     category: 'tijorat',
     subCategory: 'avtobus',
-    image: '/src/assets/images/classic_bus_95m_1781585070520.jpg',
+    image: '/images/classic_bus_95m_1781585070520.jpg',
     badge: {
       zh: '经典畅销',
       en: 'Classic Transit',
@@ -300,7 +300,7 @@ export const PRODUCTS_DATA: Product[] = [
     modelCode: 'GTQ6121FCEV',
     category: 'tijorat',
     subCategory: 'avtobus',
-    image: '/src/assets/images/gt_hydrogen_bus_1781508285980.jpg',
+    image: '/images/gt_hydrogen_bus_1781508285980.jpg',
     badge: {
       zh: '未来科技',
       en: 'Hydrogen Future',
@@ -359,7 +359,7 @@ export const PRODUCTS_DATA: Product[] = [
     modelCode: 'GTQ5041XXY',
     category: 'tijorat',
     subCategory: 'logistika',
-    image: '/src/assets/images/gt_logistic_van_1781508306200.jpg',
+    image: '/images/gt_logistic_van_1781508306200.jpg',
     badge: {
       zh: '城配首选',
       en: 'Urban Logistic King',
@@ -417,7 +417,7 @@ export const PRODUCTS_DATA: Product[] = [
     },
     modelCode: 'CAMBELL-LTO-P400',
     category: 'batareya_toplam',
-    image: '/src/assets/images/lto_battery_pack_1781585107101.jpg',
+    image: '/images/lto_battery_pack_1781585107101.jpg',
     badge: {
       zh: '核心科技',
       en: 'Core Chemistry',
@@ -475,7 +475,7 @@ export const PRODUCTS_DATA: Product[] = [
     },
     modelCode: 'CAMBELL-CHARG-360',
     category: 'zaryadlovchi',
-    image: '/src/assets/images/quick_charger_1781585131344.jpg',
+    image: '/images/quick_charger_1781585131344.jpg',
     badge: {
       zh: '高效配套',
       en: 'Fast Charger',
@@ -533,7 +533,7 @@ export const PRODUCTS_DATA: Product[] = [
     },
     modelCode: 'CAMBELL-MOT-Y245',
     category: 'motor_elektron',
-    image: '/src/assets/images/traction_motor_1781585154801.jpg',
+    image: '/images/traction_motor_1781585154801.jpg',
     badge: {
       zh: '核心动力',
       en: 'Flagship Motor',
@@ -592,7 +592,7 @@ export const PRODUCTS_DATA: Product[] = [
     modelCode: 'GTQ6600BEV',
     category: 'tijorat',
     subCategory: 'tijorat',
-    image: '/src/assets/images/tijorat_vositasi_gold_1781585824578.jpg',
+    image: '/images/tijorat_vositasi_gold_1781585824578.jpg',
     badge: {
       zh: '尊享接待',
       en: 'Executive Coaster',
@@ -651,7 +651,7 @@ export const PRODUCTS_DATA: Product[] = [
     modelCode: 'GTQ5042XXY-V5',
     category: 'tijorat',
     subCategory: 'logistika',
-    image: '/src/assets/images/logistika_v5_truck_1781585845968.jpg',
+    image: '/images/logistika_v5_truck_1781585845968.jpg',
     badge: {
       zh: '货运王牌',
       en: 'Box Cargo Titan',
@@ -710,7 +710,7 @@ export const PRODUCTS_DATA: Product[] = [
     modelCode: 'GTQ5031XXY-V3',
     category: 'tijorat',
     subCategory: 'logistika',
-    image: '/src/assets/images/logistika_v3_van_1781585867617.jpg',
+    image: '/images/logistika_v3_van_1781585867617.jpg',
     badge: {
       zh: '灵动先锋',
       en: 'Speedy Delivery',
