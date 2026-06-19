@@ -1,0 +1,6 @@
+{
+  "name": "Lanzhou Guangtong New Energy Automobile (LZGT)",
+  "description": "Lanzhou Guangtong New Energy Automobile (LZGT) official multi-page portal supporting Mandarin, English, and Uzbek, replicating all core technical specs including Class3=17 electric buses and LTO fast-charging simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
