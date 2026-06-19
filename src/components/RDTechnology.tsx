@@ -127,7 +127,7 @@ export default function RDTechnology({ currentLang }: RDTechnologyProps) {
       <div className="max-w-7xl mx-auto bg-white border border-slate-200 rounded-xl p-6 sm:p-10 shadow-sm grid grid-cols-1 lg:grid-cols-12 gap-8 items-center text-left">
         <div className="lg:col-span-5 aspect-[4/3] bg-slate-100 rounded-lg overflow-hidden border border-slate-200 relative group">
           <img 
-            src="/src/assets/images/gt_logistic_van_1781508306200.jpg" 
+            src="/images/gt_logistic_van_1781508306200.jpg" 
             alt="LZGT Assembly Line Robotics" 
             className="w-full h-full object-cover rounded-lg group-hover:scale-105 transition-transform duration-700" 
             referrerPolicy="no-referrer"
