@@ -137,7 +137,7 @@ export default function App() {
         en: 'CAMBELL Series 12M Pure Electric City Transit - Gansu Province Strategic Enterprise Landmark',
         uz: 'CAMBELL 12 Metrlik Toʻliq Elektr Shahar Avtobusi — Gansu viloyati bosh strategik korxonasi'
       },
-      image: '/src/assets/images/gt_bus_12m_1781508244809.jpg',
+      image: '/images/gt_bus_12m_1781508244809.jpg',
       badge: {
         zh: '旗舰客车 CAMBELL',
         en: 'FLAGSHIP CAMBELL',
@@ -161,7 +161,7 @@ export default function App() {
         en: 'GTQ6105BEV Class3=17 Gold Standard 10.5M Bus - Engineered for Heavy Northwest Hazard Paths',
         uz: 'GTQ6105BEV Class3=17 Oltin Standart 10.5M Avtobus — Ayozli va qumli viloyatlar uchun'
       },
-      image: '/src/assets/images/gt_bus_10m_1781508267691.jpg',
+      image: '/images/gt_bus_10m_1781508267691.jpg',
       badge: {
         zh: '西北定制 Class3=17',
         en: 'Northwest Custom Class3=17',
@@ -185,7 +185,7 @@ export default function App() {
         en: 'Pioneering safe IP68 Lithium Titanate battery cell, supports 25,000 lifecycles and extreme cold restart',
         uz: 'Mutlaqo xavfsiz IP68 Lityum-Titanat batareya texnologiyasi, 25 000 marta zaryadlash va sovuqqa chidamlilik'
       },
-      image: '/src/assets/images/gt_hydrogen_bus_1781508285980.jpg',
+      image: '/images/gt_hydrogen_bus_1781508285980.jpg',
       badge: {
         zh: '超级安全快充 LTO',
         en: 'LTO BATTERY TECHNOLOGY',
@@ -593,7 +593,7 @@ export default function App() {
                   </div>
                   <div className="lg:col-span-4 aspect-[4/3] rounded-lg overflow-hidden border border-slate-200 shadow-inner">
                     <img
-                      src="/src/assets/images/gt_bus_10m_1781508267691.jpg"
+                      src="/images/gt_bus_10m_1781508267691.jpg"
                       alt="GTQ6105BEV"
                       className="w-full h-full object-cover"
                       referrerPolicy="no-referrer"
@@ -633,7 +633,7 @@ export default function App() {
                       className="border border-slate-200 p-4 rounded-lg bg-slate-50 flex gap-4 hover:border-blue-300 transition-colors cursor-pointer text-left"
                     >
                       <div className="w-24 h-20 rounded bg-slate-100 overflow-hidden flex-shrink-0">
-                        <img src="/src/assets/images/gt_bus_10m_1781508267691.jpg" alt="News 1" className="w-full h-full object-cover" />
+                        <img src="/images/gt_bus_10m_1781508267691.jpg" alt="News 1" className="w-full h-full object-cover" />
                       </div>
                       <div className="space-y-1">
                         <span className="text-[9px] font-mono text-slate-400 font-bold block">2026-05-18</span>
@@ -646,7 +646,7 @@ export default function App() {
                       className="border border-slate-200 p-4 rounded-lg bg-slate-50 flex gap-4 hover:border-[#014e96]/30 transition-colors cursor-pointer text-left"
                     >
                       <div className="w-24 h-20 rounded bg-slate-100 overflow-hidden flex-shrink-0">
-                        <img src="/src/assets/images/gt_bus_12m_1781508244809.jpg" alt="News 2" className="w-full h-full object-cover" />
+                        <img src="/images/gt_bus_12m_1781508244809.jpg" alt="News 2" className="w-full h-full object-cover" />
                       </div>
                       <div className="space-y-1">
                         <span className="text-[9px] font-mono text-slate-400 font-bold block">2026-04-30</span>
