@@ -146,7 +146,7 @@ export default function AboutLZGT({ currentLang }: AboutLZGTProps) {
           <div className="absolute inset-0 bg-gradient-to-tr from-[#014e96]/10 to-transparent rounded-lg blur-xl opacity-40"></div>
           <div className="relative border border-slate-200 rounded-lg overflow-hidden bg-slate-100 aspect-video flex items-center justify-center">
             <img 
-              src="/src/assets/images/gt_bus_10m_1781508267691.jpg" 
+              src="/images/gt_bus_10m_1781508267691.jpg" 
               alt="Lanzhou Guangtong Production Complex" 
               className="w-full h-full object-cover rounded-lg group-hover:scale-105 transition-transform duration-700" 
               referrerPolicy="no-referrer"
