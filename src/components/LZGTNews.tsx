@@ -34,7 +34,7 @@ export default function LZGTNews({ currentLang }: LZGTNewsProps) {
         en: 'At the recently concluded National Automotive Quality Assessment Forum, Lanzhou Guanggong’s flagship 10.5m bus met the pristine Class3=17 standard, applauded for excellent chassis engineering and robust thermal resilience.',
         uz: 'Nufuzli milliy texnik kengash yigʻilishida Lanzhou Guangtong GTQ6105BEV 10.5 metrlik modeli oʻzining ajoyib karkas mustahkamligi va sovuqqa chidamliligi bilan oliy Class3=17 darajasidagi davlat minnatdorligini oldi.'
       },
-      image: '/src/assets/images/gt_bus_10m_1781508267691.jpg',
+      image: '/images/gt_bus_10m_1781508267691.jpg',
       content: {
         zh: [
           '2026年5月中旬，根据中华人民共和国交通运输部与工业和信息化部联合装备质量监测通报，兰州广通新能源汽车有限公司精心研制的10.5米城市公交系列顺利通过现场极温多维综合审议，斩获具有行业风向标意义的 Class3=17 型重点客车准入资质。',
@@ -67,7 +67,7 @@ export default function LZGTNews({ currentLang }: LZGTNewsProps) {
         en: 'With heavy horns blown in the assembly factory, customized electric fleets formally departed for Central Asia markets. This breakthrough highlights Gansu green manufacturing anchoring clean transportation lines.',
         uz: 'Mashinasozlik zavodida tantanali tadbir boʻlib oʻtdi. Toshkent shahriga va Markaziy Osiyo avtobus tarmoqlarini kengaytirish uchun maxsus tayyorlangan ilk elektr avtobuslar joʻnatildi.'
       },
-      image: '/src/assets/images/gt_bus_12m_1781508244809.jpg',
+      image: '/images/gt_bus_12m_1781508244809.jpg',
       content: {
         zh: [
           '丝路绿色通道正在焕发蓬勃生机。2026年4月底，由兰州广通精心打造的新潮大客车在完成多关卡出厂调测后，从中国兰州新区秦川工厂基地排列启程，沿着口岸向中亚方向快速行进。',
@@ -100,7 +100,7 @@ export default function LZGTNews({ currentLang }: LZGTNewsProps) {
         en: 'Demonstrating technical leadership, Lanzhou Guanggong joint with top institutes officially launched the 5th generation LTO battery, featuring 15-minute quick-refill and a spectacular 25,000+ lifecycle.',
         uz: 'Lanzhou Guangtong kompaniyasi mamlakat ilmiy tadqiqot instituti bilan birgalikda mutlaqo xavfsiz va 15 daqiqada zaryad oluvchi yangi avlod LTO batareya bloklarini namoyish etdi.'
       },
-      image: '/src/assets/images/gt_hydrogen_bus_1781508285980.jpg',
+      image: '/images/gt_hydrogen_bus_1781508285980.jpg',
       content: {
         zh: [
           '2026年3月中旬，兰州新区企业大厦高朋满座，兰州广通新能源汽车联合新能源材料权威实验室正式召开发布会，震撼发布了代表未来快充储能极限的第五代“G-LTO 极致安全快充电芯组”。',
